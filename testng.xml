@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+   <!-- Test -->
+   <listeners>
+	   <listener class-name="utilities.ExtentReportManager"/>
+   </listeners>
+   <test thread-count="5" name="ChromeTest">
+	  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="testCase.Login"/>
+     <!--  <class name="testCase.TC_003_LoginDataDrivenTest"/>-->
+    </classes>
+  </test>
+</suite> <!-- Suite -->

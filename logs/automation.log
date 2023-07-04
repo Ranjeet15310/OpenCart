@@ -1,0 +1,206 @@
+00:00:44.764 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:00:44.922 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:00:45.361 [main] INFO  testCase.Login - ** Enter email ***
+00:11:39.401 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:11:39.556 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:11:40.016 [main] INFO  testCase.Login - ** Enter email ***
+00:20:06.122 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:20:06.262 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:20:06.741 [main] INFO  testCase.Login - ** Enter email ***
+00:32:33.402 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:32:33.554 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:32:34.034 [main] INFO  testCase.Login - ** Enter email ***
+00:34:34.441 [TestNG-test=Test-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:34:34.441 [TestNG-test=Test-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:34:34.441 [TestNG-test=Test-3] INFO  testCase.Login - ** Enter email ***
+00:40:36.833 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:40:36.833 [TestNG-tests-2] INFO  testCase.Login - ** Click on myAccount link ***
+00:40:37.013 [TestNG-tests-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:40:37.026 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:40:37.504 [TestNG-tests-2] INFO  testCase.Login - ** Enter email ***
+00:40:37.617 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:42:03.078 [TestNG-tests-2] INFO  testCase.Login - ** Click on myAccount link ***
+00:42:03.190 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:42:03.249 [TestNG-tests-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:42:03.331 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:42:03.811 [TestNG-tests-2] INFO  testCase.Login - ** Enter email ***
+00:42:03.924 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:57:27.488 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:57:27.636 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:57:28.107 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:59:30.166 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:59:30.315 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:59:30.777 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:59:55.569 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:59:55.723 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:59:56.194 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:35:44.744 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:35:44.908 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:35:45.383 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:38:45.716 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:38:45.892 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:38:46.355 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:41:04.543 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:41:04.709 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:41:05.138 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+13:59:16.669 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+13:59:16.836 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+13:59:17.305 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:03:45.881 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:03:46.051 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:03:46.525 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:08:36.811 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:08:36.975 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:08:37.385 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:13:25.953 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:13:26.122 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:13:26.565 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:13:26.728 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+14:13:26.788 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+14:19:47.722 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:19:47.899 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:19:48.313 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:19:48.476 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+14:19:48.533 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+14:20:54.014 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:20:54.185 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:20:54.665 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:20:54.827 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+15:50:38.030 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:39.046 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:39.719 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:40.384 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:41.077 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:21.050 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:22.143 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:22.859 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:23.562 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:24.340 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:40.739 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:41.845 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:42.532 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:43.176 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:43.839 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:46.683 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+15:55:46.814 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+15:55:47.262 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+15:55:47.421 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+15:55:47.481 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+15:58:51.424 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:02.880 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:14.889 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:25.218 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:35.522 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:55.382 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:13.292 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:24.622 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:26.070 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:27.471 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:07:25.097 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:07:36.575 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:35:46.498 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:35:58.335 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:08.775 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:19.171 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:33.872 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:41:50.451 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:42:08.232 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:42:19.906 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:03.046 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:15.021 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:25.441 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:35.858 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:46.256 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:31.098 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:33.035 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:47:33.054 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:34.998 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:36.840 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:38.675 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:40.238 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:49:14.214 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:16.065 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:49:16.082 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:17.939 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:19.811 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:21.688 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:23.289 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+21:06:48.369 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Click on myAccount link ***
+21:06:48.509 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Click on the Login link button ***
+21:06:48.955 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Enter email ***
+21:06:49.133 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Email input box is displayed **
+21:06:49.189 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Email input box is enabled
+21:41:02.664 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:04.611 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+21:41:04.633 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:15.660 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:26.780 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:37.957 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:11.231 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:21.591 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:43.792 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:45.785 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:31:45.806 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:56.863 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:32:07.986 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:32:19.100 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+23:36:13.941 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:36:14.099 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:36:14.628 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:36:14.808 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:36:14.873 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:36:15.678 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:45:58.042 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:45:58.209 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:45:58.662 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:45:58.826 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:45:58.879 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:45:59.634 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:47:05.347 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:47:05.513 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:47:05.941 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:47:06.097 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:47:06.162 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:47:06.937 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:47:50.541 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:47:50.698 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:47:51.103 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:47:51.264 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:47:51.320 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:47:52.105 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:04:11.112 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:04:11.273 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:04:11.708 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:04:11.866 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:04:11.930 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:04:12.697 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:06:08.682 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:06:08.835 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:06:09.251 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:06:09.408 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:06:09.461 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:06:10.195 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:12:13.062 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:12:13.222 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:12:13.633 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:12:13.797 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:12:13.850 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:12:14.574 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:14:33.872 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:14:34.041 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:14:34.409 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:14:34.567 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:14:34.618 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:14:35.356 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:26:47.046 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:26:47.194 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:26:47.636 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:26:47.789 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:26:47.849 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:26:48.560 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:39:37.420 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:39:37.571 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:39:37.988 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:39:38.153 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:39:38.206 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:39:38.942 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
