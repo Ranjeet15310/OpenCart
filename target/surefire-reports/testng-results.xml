@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-06T22:59:33 IST" name="Suite" finished-at="2023-07-06T22:59:41 IST" duration-ms="8180">
+  <suite started-at="2023-07-19T22:53:03 IST" name="Suite" finished-at="2023-07-19T22:53:11 IST" duration-ms="8045">
     <groups>
     </groups>
-    <test started-at="2023-07-06T22:59:33 IST" name="ChromeTest" finished-at="2023-07-06T22:59:41 IST" duration-ms="8180">
+    <test started-at="2023-07-19T22:53:03 IST" name="ChromeTest" finished-at="2023-07-19T22:53:11 IST" duration-ms="8045">
       <class name="testCase.Login">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:33 IST" name="setup" finished-at="2023-07-06T22:59:39 IST" duration-ms="5854" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:04 IST" name="setup" finished-at="2023-07-19T22:53:09 IST" duration-ms="5769" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,43 +18,43 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="clickMyAccount()[pri:1, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:39 IST" name="clickMyAccount" finished-at="2023-07-06T22:59:39 IST" duration-ms="162" status="PASS">
+        <test-method signature="clickMyAccount()[pri:1, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:09 IST" name="clickMyAccount" finished-at="2023-07-19T22:53:10 IST" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickMyAccount -->
-        <test-method signature="ClickOnTheLoginLink()[pri:2, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:39 IST" name="ClickOnTheLoginLink" finished-at="2023-07-06T22:59:40 IST" duration-ms="506" status="PASS">
+        <test-method signature="ClickOnTheLoginLink()[pri:2, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="ClickOnTheLoginLink" finished-at="2023-07-19T22:53:10 IST" duration-ms="478" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickOnTheLoginLink -->
-        <test-method signature="EnterTheEmailID()[pri:3, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="EnterTheEmailID" finished-at="2023-07-06T22:59:40 IST" duration-ms="152" status="PASS">
+        <test-method signature="EnterTheEmailID()[pri:3, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="EnterTheEmailID" finished-at="2023-07-19T22:53:10 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterTheEmailID -->
-        <test-method signature="EmailIsDisplayed()[pri:4, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="EmailIsDisplayed" finished-at="2023-07-06T22:59:40 IST" duration-ms="64" status="PASS">
+        <test-method signature="EmailIsDisplayed()[pri:4, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="EmailIsDisplayed" finished-at="2023-07-19T22:53:10 IST" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmailIsDisplayed -->
-        <test-method signature="EmailIsEnabled()[pri:5, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="EmailIsEnabled" finished-at="2023-07-06T22:59:40 IST" duration-ms="38" status="PASS">
+        <test-method signature="EmailIsEnabled()[pri:5, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="EmailIsEnabled" finished-at="2023-07-19T22:53:10 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmailIsEnabled -->
-        <test-method signature="EmailIsSelected()[pri:6, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="EmailIsSelected" finished-at="2023-07-06T22:59:40 IST" duration-ms="36" status="PASS">
+        <test-method signature="EmailIsSelected()[pri:6, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="EmailIsSelected" finished-at="2023-07-19T22:53:10 IST" duration-ms="39" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmailIsSelected -->
-        <test-method signature="EnterThePassword()[pri:7, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="EnterThePassword" finished-at="2023-07-06T22:59:40 IST" duration-ms="90" status="PASS">
+        <test-method signature="EnterThePassword()[pri:7, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="EnterThePassword" finished-at="2023-07-19T22:53:10 IST" duration-ms="102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterThePassword -->
-        <test-method signature="ClickOnLoginButton()[pri:8, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="ClickOnLoginButton" finished-at="2023-07-06T22:59:40 IST" duration-ms="86" status="PASS">
+        <test-method signature="ClickOnLoginButton()[pri:8, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:10 IST" name="ClickOnLoginButton" finished-at="2023-07-19T22:53:11 IST" duration-ms="97" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickOnLoginButton -->
-        <test-method signature="verifyMyAccount()[pri:9, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:40 IST" name="verifyMyAccount" finished-at="2023-07-06T22:59:41 IST" duration-ms="565" status="PASS">
+        <test-method signature="verifyMyAccount()[pri:9, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:11 IST" name="verifyMyAccount" finished-at="2023-07-19T22:53:11 IST" duration-ms="572" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMyAccount -->
-        <test-method is-config="true" signature="teadDown()[pri:0, instance:testCase.Login@149e0f5d]" started-at="2023-07-06T22:59:41 IST" name="teadDown" finished-at="2023-07-06T22:59:41 IST" duration-ms="204" status="PASS">
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:testCase.Login@149e0f5d]" started-at="2023-07-19T22:53:11 IST" name="teadDown" finished-at="2023-07-19T22:53:11 IST" duration-ms="206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teadDown -->

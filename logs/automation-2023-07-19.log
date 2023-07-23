@@ -1,0 +1,502 @@
+00:00:44.764 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:00:44.922 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:00:45.361 [main] INFO  testCase.Login - ** Enter email ***
+00:11:39.401 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:11:39.556 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:11:40.016 [main] INFO  testCase.Login - ** Enter email ***
+00:20:06.122 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:20:06.262 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:20:06.741 [main] INFO  testCase.Login - ** Enter email ***
+00:32:33.402 [main] INFO  testCase.Login - ** Click on myAccount link ***
+00:32:33.554 [main] INFO  testCase.Login - ** Click on the Login link button ***
+00:32:34.034 [main] INFO  testCase.Login - ** Enter email ***
+00:34:34.441 [TestNG-test=Test-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:34:34.441 [TestNG-test=Test-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:34:34.441 [TestNG-test=Test-3] INFO  testCase.Login - ** Enter email ***
+00:40:36.833 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:40:36.833 [TestNG-tests-2] INFO  testCase.Login - ** Click on myAccount link ***
+00:40:37.013 [TestNG-tests-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:40:37.026 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:40:37.504 [TestNG-tests-2] INFO  testCase.Login - ** Enter email ***
+00:40:37.617 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:42:03.078 [TestNG-tests-2] INFO  testCase.Login - ** Click on myAccount link ***
+00:42:03.190 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:42:03.249 [TestNG-tests-2] INFO  testCase.Login - ** Click on the Login link button ***
+00:42:03.331 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:42:03.811 [TestNG-tests-2] INFO  testCase.Login - ** Enter email ***
+00:42:03.924 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:57:27.488 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:57:27.636 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:57:28.107 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:59:30.166 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:59:30.315 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:59:30.777 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+00:59:55.569 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+00:59:55.723 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+00:59:56.194 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:35:44.744 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:35:44.908 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:35:45.383 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:38:45.716 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:38:45.892 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:38:46.355 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+01:41:04.543 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+01:41:04.709 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+01:41:05.138 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+13:59:16.669 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+13:59:16.836 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+13:59:17.305 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:03:45.881 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:03:46.051 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:03:46.525 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:08:36.811 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:08:36.975 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:08:37.385 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:13:25.953 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:13:26.122 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:13:26.565 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:13:26.728 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+14:13:26.788 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+14:19:47.722 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:19:47.899 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:19:48.313 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:19:48.476 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+14:19:48.533 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+14:20:54.014 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+14:20:54.185 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+14:20:54.665 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+14:20:54.827 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+15:50:38.030 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:39.046 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:39.719 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:40.384 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:41.077 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:21.050 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:22.143 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:22.859 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:23.562 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:53:24.340 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:40.739 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:41.845 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:42.532 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:43.176 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:43.839 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:55:46.683 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+15:55:46.814 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+15:55:47.262 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+15:55:47.421 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+15:55:47.481 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+15:58:51.424 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:02.880 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:14.889 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:25.218 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:35.522 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:59:55.382 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:13.292 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:24.622 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:26.070 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:27.471 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:07:25.097 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:07:36.575 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:35:46.498 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:35:58.335 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:08.775 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:19.171 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:36:33.872 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:41:50.451 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:42:08.232 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:42:19.906 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:03.046 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:15.021 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:25.441 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:35.858 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:43:46.256 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:31.098 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:33.035 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:47:33.054 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:34.998 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:36.840 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:38.675 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:47:40.238 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:49:14.214 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:16.065 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:49:16.082 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:17.939 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:19.811 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:21.688 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:49:23.289 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+21:06:48.369 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Click on myAccount link ***
+21:06:48.509 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Click on the Login link button ***
+21:06:48.955 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Enter email ***
+21:06:49.133 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Email input box is displayed **
+21:06:49.189 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest - ** Email input box is enabled
+21:41:02.664 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:04.611 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+21:41:04.633 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:15.660 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:26.780 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+21:41:37.957 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:11.231 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:21.591 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:43.792 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:45.785 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:31:45.806 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:31:56.863 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:32:07.986 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:32:19.100 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+23:36:13.941 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:36:14.099 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:36:14.628 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:36:14.808 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:36:14.873 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:36:15.678 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:45:58.042 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:45:58.209 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:45:58.662 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:45:58.826 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:45:58.879 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:45:59.634 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:47:05.347 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:47:05.513 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:47:05.941 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:47:06.097 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:47:06.162 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:47:06.937 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:47:50.541 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:47:50.698 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:47:51.103 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:47:51.264 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:47:51.320 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:47:52.105 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:04:11.112 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:04:11.273 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:04:11.708 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:04:11.866 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:04:11.930 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:04:12.697 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:06:08.682 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:06:08.835 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:06:09.251 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:06:09.408 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:06:09.461 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:06:10.195 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:12:13.062 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:12:13.222 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:12:13.633 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:12:13.797 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:12:13.850 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:12:14.574 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:14:33.872 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:14:34.041 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:14:34.409 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:14:34.567 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:14:34.618 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:14:35.356 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:26:47.046 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:26:47.194 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:26:47.636 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:26:47.789 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:26:47.849 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:26:48.560 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+23:39:37.420 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+23:39:37.571 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+23:39:37.988 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+23:39:38.153 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+23:39:38.206 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+23:39:38.942 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+22:09:18.129 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+22:09:28.467 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+22:09:43.777 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+22:59:39.484 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+22:59:39.655 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+22:59:40.163 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+22:59:40.316 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+22:59:40.382 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+22:59:41.202 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+00:18:57.037 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+00:18:57.390 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+00:18:57.644 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+00:18:57.735 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+00:20:13.975 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+00:20:14.358 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+00:20:14.609 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+00:20:14.700 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+00:21:09.871 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+00:21:10.346 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+00:21:10.591 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+00:21:10.674 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+00:22:39.321 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+00:22:39.803 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+00:22:40.056 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+00:22:40.134 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+00:32:18.362 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+00:32:18.757 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+00:32:19.029 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+00:32:19.118 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:06:32.583 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+22:06:32.731 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+22:06:33.208 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+22:06:33.356 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+22:06:33.409 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+22:06:34.172 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+22:09:20.978 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+22:09:21.138 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+22:09:21.576 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+22:09:21.729 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+22:09:21.774 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
+22:09:22.487 [TestNG-tests-1] INFO  testCase.Login - ** not login my account
+22:26:51.186 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:26:51.594 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:26:51.826 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:26:51.960 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:27:22.493 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:27:22.917 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:27:23.156 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:27:23.293 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:27:46.564 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:27:46.964 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:27:47.210 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:27:47.302 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:32:52.944 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:32:53.418 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:32:53.659 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:32:53.759 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:49:54.871 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:49:55.348 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:49:55.609 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:49:55.699 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:49:59.286 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:49:59.721 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:49:59.975 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:50:00.073 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+13:21:03.030 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:21:03.294 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:21:03.410 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+13:21:03.465 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+13:21:05.271 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:21:05.476 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:21:05.601 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+13:21:05.639 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+13:22:24.395 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:22:24.591 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:22:26.231 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:22:26.440 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:22:28.016 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:22:28.220 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:23:38.005 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:23:38.179 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:23:39.722 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:23:39.909 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:23:41.462 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:23:41.704 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:25:34.433 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:25:34.625 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:25:36.200 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:25:36.389 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:25:37.870 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:25:38.086 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:34:18.767 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:34:19.005 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:34:21.360 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:34:21.581 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:34:23.438 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:34:23.658 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:35:30.756 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:35:30.950 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:35:33.243 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:35:33.461 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:35:35.341 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:35:35.532 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:35:37.390 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:35:37.606 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:41:41.622 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:41:41.840 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:41:44.173 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:41:44.391 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:41:46.345 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:41:46.542 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:41:48.464 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:41:48.657 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:43:27.800 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:43:32.996 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:43:35.310 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:43:40.550 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:43:42.431 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:43:47.668 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:43:49.470 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:43:54.684 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:45:52.945 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:45:53.171 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:46:00.407 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:46:00.621 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:46:07.494 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:46:07.698 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:46:14.591 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+13:46:14.798 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+13:50:53.860 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:50:54.656 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+13:50:54.666 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:51:05.143 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:51:15.604 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:51:26.052 [TestNG-tests-1] INFO  testCase.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:00:13.629 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:00:14.067 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:00:23.359 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:00:23.750 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:00:32.455 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:00:32.879 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:00:41.442 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:00:41.832 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:09:22.550 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:09:23.034 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:09:26.495 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:09:26.863 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:09:30.259 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:09:30.629 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:09:33.994 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:09:34.427 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:09:58.929 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:09:59.332 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:10:02.722 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:10:03.092 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:10:06.412 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:10:06.783 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:10:10.188 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:10:10.553 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:13:35.338 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:13:35.810 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:13:36.076 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:13:36.174 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+14:18:13.128 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:18:13.434 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:18:18.071 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:18:18.453 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:18:21.984 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:18:22.366 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:18:25.743 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:18:26.157 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:24:53.019 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:24:53.480 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:24:58.044 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:24:58.444 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:25:01.894 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:25:02.342 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:25:05.888 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:25:06.344 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:33:19.830 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:33:20.251 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:33:20.549 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:33:20.640 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+14:35:17.888 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:35:18.346 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:35:22.896 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:35:23.276 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:35:26.785 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:35:27.215 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:35:30.689 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:35:31.070 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:40:17.153 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:40:17.596 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:40:22.142 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:40:22.562 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:40:26.145 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:40:26.521 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:40:30.037 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:40:30.396 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:41:06.941 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:41:07.322 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:41:11.842 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:41:12.225 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:41:15.718 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:41:16.097 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:41:19.714 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:41:20.108 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:42:04.619 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:42:05.007 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:42:09.596 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:42:09.972 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:44:54.771 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:44:55.217 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:44:55.473 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:44:55.566 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+14:44:58.954 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:44:59.304 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:44:59.570 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:44:59.662 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+14:45:03.017 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:45:03.393 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:45:03.646 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:45:03.737 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+14:45:17.571 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:45:17.975 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:45:22.554 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:45:22.925 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:45:26.419 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:45:26.842 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:45:30.242 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:45:30.636 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:55:19.348 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:55:19.801 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:55:24.393 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:55:24.762 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:55:28.304 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:55:28.737 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:55:32.159 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:55:32.540 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:56:35.235 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+14:56:35.613 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+14:56:35.888 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+14:56:35.985 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:02:01.183 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:02:01.597 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:02:01.860 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:02:01.954 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:21:39.639 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:21:40.075 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:21:40.332 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:21:40.420 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:22:36.641 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:22:37.001 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:22:37.265 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:22:37.362 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:27:23.068 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:27:23.455 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:27:23.718 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:27:23.812 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:27:27.167 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:27:27.573 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:27:27.834 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:27:27.931 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:28:50.901 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:28:51.358 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:28:51.623 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:28:51.724 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:28:55.033 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:28:55.399 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:28:55.646 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:28:55.733 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:29:48.160 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:29:48.631 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:29:48.909 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:29:48.996 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:30:19.781 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:30:20.164 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:30:20.408 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:30:20.498 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:30:49.237 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:30:49.684 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:30:49.951 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:30:50.057 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+15:31:45.507 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+15:31:45.918 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+15:31:46.176 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+15:31:46.270 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:51:32.999 [main] INFO  stepDefinitions.steps - *** click on the myaccount ***
+22:51:33.615 [main] INFO  stepDefinitions.steps - ** User able to click on the loging button which is available into the myaccount page *
+22:51:33.889 [main] INFO  stepDefinitions.steps - ** user enter the email id and password **
+22:51:33.984 [main] INFO  stepDefinitions.steps - ** user click on the login button ***
+22:52:28.360 [TestNG-tests-1] INFO  testCase.Login - ** Click on myAccount link ***
+22:52:28.556 [TestNG-tests-1] INFO  testCase.Login - ** Click on the Login link button ***
+22:52:29.099 [TestNG-tests-1] INFO  testCase.Login - ** Enter email ***
+22:52:29.253 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is displayed **
+22:52:29.305 [TestNG-tests-1] INFO  testCase.Login - ** Email input box is enabled
