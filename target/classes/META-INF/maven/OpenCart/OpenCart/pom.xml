@@ -22,13 +22,12 @@
 		          
 			   </plugin>
         
-		 	 <plugin>
+		 	   <plugin>
 		          <groupId>org.apache.maven.plugins</groupId>
 		          <artifactId>maven-compiler-plugin</artifactId>
 		          <version>3.11.0</version>
-		      </plugin>
-        
-        
+		       </plugin>
+             
   		</plugins>
   
  	 </pluginManagement>
@@ -37,11 +36,13 @@
   
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
 	    <groupId>org.seleniumhq.selenium</groupId>
 	    <artifactId>selenium-java</artifactId>
-	    <version>4.10.0</version>
+	    <version>4.11.0</version>
 	</dependency>
+
 	<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 	<dependency>
 	    <groupId>io.cucumber</groupId>
@@ -122,13 +123,5 @@
 	    <version>2.13.0</version>
 	</dependency>
 
-
-
-
-	<dependency>
-		<groupId>org.example</groupId>
-		<artifactId>CCMAAS_Project</artifactId>
-		<version>1.0-SNAPSHOT</version>
-	</dependency>
   </dependencies>
 </project>

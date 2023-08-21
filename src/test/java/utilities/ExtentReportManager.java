@@ -28,7 +28,8 @@ public class ExtentReportManager implements ITestListener {
 	String repName;
 
 	public void onStart(ITestContext testContext) {
-		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
+		//String timeStamp = new SimpleDateFormat("yyyy.MMM.dd.HH.mm.ss").format(new Date());// time stamp
+		String timeStamp = new SimpleDateFormat("dd.MMM.yyyy.HH.mm.ss").format(new Date());// time
 		repName = "Test-Report-" + timeStamp + ".html";
 
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report
@@ -47,8 +48,8 @@ public class ExtentReportManager implements ITestListener {
 		extent.setSystemInfo("Environemnt", "QA");
 	}
 	public void onTestSuccess(ITestResult result) {
-		//test = extent.createTest(result.getName());
 		test = extent.createTest(result.getName());
+		//test=extent.createTest(result.getTestName());
 		test.log(Status.PASS, "Test Passed");
 	}
 

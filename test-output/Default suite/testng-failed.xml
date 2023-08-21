@@ -3,20 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCase.Login">
+      <class name="testCase.TableManage">
         <methods>
-          <include name="EmailIsSelected"/>
           <include name="teadDown"/>
-          <include name="EnterThePassword"/>
-          <include name="EnterTheEmailID"/>
-          <include name="ClickOnTheLoginLink"/>
-          <include name="clickMyAccount"/>
-          <include name="EmailIsEnabled"/>
-          <include name="ClickOnLoginButton"/>
-          <include name="verifyMyAccount"/>
-          <include name="EmailIsDisplayed"/>
+          <include name="setup"/>
+          <include name="Name1"/>
+          <include name="Name"/>
         </methods>
-      </class> <!-- testCase.Login -->
+      </class> <!-- testCase.TableManage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

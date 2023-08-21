@@ -1,12 +1,10 @@
 package testCase;
 
 import org.testng.Assert;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.ccmaas.ExtentReportManager.ExtentReport;
 
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
@@ -16,14 +14,10 @@ public class Login extends BaseClass{
 	public HomePage hp;
 	public LoginPage Login;
 	public MyAccountPage ap;
-	public ExtentReports extent;
-	public  ExtentTest test;
 	@Test(priority=1)
 	public void clickMyAccount()
 	{
-		extent=new ExtentReports();
 		hp=new HomePage(driver);
-		test=extent.createTest("Chronme");
 		hp.clickMyAccount();
 	}
 	@Test(priority=2)

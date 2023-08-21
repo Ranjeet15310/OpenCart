@@ -72,7 +72,7 @@ public class BaseClass {
 	
 	public String captureScreen(String tname) throws IOException {
 
-		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+		String timeStamp = new SimpleDateFormat("dd-MMM-yyyy.HH.mm.ss").format(new Date());
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
 		String destination = System.getProperty("user.dir") + "\\screenshots\\" + tname + "_" + timeStamp + ".png";

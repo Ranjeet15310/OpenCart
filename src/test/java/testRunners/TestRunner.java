@@ -2,6 +2,10 @@ package testRunners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
@@ -15,13 +19,13 @@ import org.junit.runner.RunWith;
         
         glue="stepDefinitions",
         plugin= {
-        		"pretty", "html:reports/myreport.html", 
+        	    "pretty", "html:reports/myreport.html", 
         		"json:reports/myreport.json",
         		"rerun:target/return.txt", //Mandatory to capture failures
         		},   
         dryRun=false,
-        monochrome=true
-       // tags = "@sanity"	//Scenarios tagged with @sanity,
+        monochrome=false,
+        tags = "@sanity"	//Scenarios tagged with @sanity,
       //  tags = "@sanity and regression"  // for sanity and regression both
    //     tags = "@sanity or regression" // for either sanity or regression 
      //   tags = "@sanity and not regression" // for either sanity or regression 

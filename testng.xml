@@ -8,7 +8,7 @@
    <test thread-count="5" name="ChromeTest">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCase.Login"/>
+      <class name="testCase.TableManage"/>
      <!--  <class name="testCase.TC_003_LoginDataDrivenTest"/>-->
     </classes>
   </test>

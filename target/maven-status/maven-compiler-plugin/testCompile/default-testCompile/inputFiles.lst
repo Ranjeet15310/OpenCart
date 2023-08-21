@@ -1,12 +1,17 @@
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testBase\Practice.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testCase\TC_003_LoginDataDrivenTest.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\utilities\ExcelUtility.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testCase\TC_001_AccountRegistrationTest.java
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testCase\TableManage.java
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\PracticeOnly\StatiWebTables.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\AccountRegistrationPage.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\LoginPage.java
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\PracticeOnly\AutoSuggestion.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\utilities\DataReader.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testCase\Login.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\utilities\DataProviders.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testBase\BaseClass.java
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\utilities\ExtentReport.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\HomePage.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\stepDefinitions\steps.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\BasePage.java
@@ -14,3 +19,4 @@ C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\utilities\ExtentReportMa
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testCase\AccountRegistration.java
 C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\testRunners\TestRunner.java
+C:\Users\rk604\eclipse-workspace\OpenCart\src\test\java\pageObjects\Table.java
