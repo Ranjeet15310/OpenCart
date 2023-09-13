@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="utilities.ExtentReportManager"/>
-  </listeners>
-  <test thread-count="5" parallel="tests" name="ChromeTest(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCase.TableManage">
+      <class name="testCase.AccountRegistration">
         <methods>
+          <include name="ClickPolicyButton"/>
           <include name="teadDown"/>
+          <include name="clickRegistrationButton"/>
           <include name="setup"/>
-          <include name="Name1"/>
-          <include name="Name"/>
+          <include name="clickMyAcc"/>
+          <include name="EnterPassword"/>
+          <include name="EnterEmail"/>
+          <include name="EnterFirstName"/>
+          <include name="EnterLastName"/>
         </methods>
-      </class> <!-- testCase.TableManage -->
+      </class> <!-- testCase.AccountRegistration -->
     </classes>
-  </test> <!-- ChromeTest(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

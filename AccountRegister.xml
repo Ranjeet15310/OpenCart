@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testCase.TC_001_AccountRegistrationTest"/>
+      <class name="testCase.AccountRegistration"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

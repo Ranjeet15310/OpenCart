@@ -10,25 +10,24 @@ public class AccountRegistration extends BaseClass{
 	public AccountRegistrationPage accountResister;
 
 	@Test(priority=1)
-	void clickMyAcc() throws InterruptedException
+	void clickOnMyAccount()
 	{
 		hp=new HomePage(driver);
-		Thread.sleep(2000);
 		hp.clickMyAccount();
 	}
 	@Test(priority=2)
-	void clickRegistrationButton()
+	void clickOnRegistrationButton()
 	{
 		hp.clickRegister();
 	}
 	@Test(priority=3)
-	void EnterFirstName()
+	void EnterTheFirstName()
 	{
 		accountResister = new AccountRegistrationPage(driver);
 		accountResister.setFirstName("Ranjeet");
 	}
 	@Test(priority=4)
-	void EnterLastName()
+	void EnterTheLastName()
 	{
 		accountResister.setLastName("Kumar");
 	}
